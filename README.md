@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 📚 Estudando JavaScript, HTML e CSS
+- 📚 Aprofundando conhecimentos em JavaScript, HTML e CSS
 
 
 <br>
@@ -19,6 +19,10 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="TS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="JQ" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+    <img align="center" alt="Gulp" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
 </div>
 
 ##
@@ -28,8 +32,8 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
-  <a href = "mailto:guilherme_18henrique@yahoo.com.br">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilherme_18henrique@yahoo.com.br">
+  <img height="28" width="40" src="https://images-na.ssl-images-amazon.com/images/I/71j4O21admL.png" target="_blank"></a>
   
   <a href="https://api.whatsapp.com/send?phone=5519982210064&text=sua%20mensagem">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
