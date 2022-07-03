@@ -35,7 +35,7 @@
   <a href="mailto:guilherme_18henrique@yahoo.com.br">
   <img height="28" width="40" src="https://images-na.ssl-images-amazon.com/images/I/71j4O21admL.png" target="_blank"></a>
   
-  <a href="https://api.whatsapp.com/send?phone=5519982210064&text=sua%20mensagem">
+  <a href="https://api.whatsapp.com/send?phone=5519982210064&text=Olá%20Guilherme">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </a>
 
