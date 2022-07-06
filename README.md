@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 📚 Aprofundando conhecimentos em JavaScript, HTML e CSS
+- 📚 Aprofundando conhecimentos em JavaScript, React e Angular
 
 
 <br>
