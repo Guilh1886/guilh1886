@@ -26,13 +26,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guih1886/" target="_blank">
-  <img width="220em" height="50em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img width="200em" height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:guilherme_18henrique@yahoo.com.br">
-  <img width="220em" height="50em" src="https://img.shields.io/badge/-Yahoo-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank">
+  <img width="200em" height="40em" src="https://img.shields.io/badge/-Yahoo-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5519982210064&text=Olá%20Guilherme">
-  <img width="220em" height="50em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <img width="200em" height="40em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </a>
 
 </div>
