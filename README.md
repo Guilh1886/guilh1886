@@ -1,33 +1,31 @@
-### Olá 👋
+### Olá, bem vindo ao meu repositório 👋
 
-- 📚 Aprofundando conhecimentos em React e React Native!
-
+- 📚 Atualmente aprofundando conhecimentos em React, React Native e Angular!
 
 <br>
 <div align="center">
   <a href="https://github.com/guih1886">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih1886&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih1886&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"  align="center">
+<div style="display: inline_block" align="center">
     <br>
-    <img align="center" alt="JS" height="30" width="40"
-        src="https://raw.githubusercontent.com/guih1886/icons/main/angular_icon.png?token=GHSAT0AAAAAAB676HZNT3FDNZAC7XOZLUSAZBMPOKQ">
-    <img align="center" alt="HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="TS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="JQ" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-    <img align="center" alt="Gulp" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+    <img align="center" alt="HTML" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/html_icon.png">
+    <img align="center" alt="LESS" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/less_icon.png">
+    <img align="center" alt="JS" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/js_icon.png">
+    <img align="center" alt="REACT" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/react_icon.png">
+    <img align="center" alt="ANGULAR" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/angular_icon.png">
+    <img align="center" alt="JAVA" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/java_icon.png">
+    <img align="center" alt="PYTHON" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/python_icon.png">
+    <img align="center" alt="PHP" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/php_icon.png">
+    <img align="center" alt="NODE" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/node_icon.png">
+    <img align="center" alt="SQL" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/my_sql_icon.png">
+    
 </div>
 
 ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/guih1886/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
