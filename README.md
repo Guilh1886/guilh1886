@@ -12,7 +12,7 @@
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="JS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        src="https://raw.githubusercontent.com/guih1886/icons/main/angular_icon.png?token=GHSAT0AAAAAAB676HZNT3FDNZAC7XOZLUSAZBMPOKQ">
     <img align="center" alt="HTML" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40"
