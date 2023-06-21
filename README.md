@@ -1,6 +1,7 @@
 ### Olá, bem vindo ao meu repositório 👋
 
-- 📚 Atualmente aprofundando conhecimentos em React, React Native e Angular!
+- 📚 Atualmente aprofundando conhecimentos front-end com React, TypeScript e Angular!
+- Aprendendo e desenvolvendo projetos back-end com Java
 
 <br>
 <div align="center">
