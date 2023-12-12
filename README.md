@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu repositório 👋
 
-- 📚 Atualmente aprofundando conhecimentos back-end com Python e Java!
+- 📚 Atualmente aprofundando conhecimentos back-end com .NET e Python!
 
 <br>
 <div align="center">
