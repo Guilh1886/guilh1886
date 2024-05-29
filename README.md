@@ -10,16 +10,15 @@
 
 <div align="center">
     <br>
-    <img align="center" alt="HTML" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/html_icon.png">
-    <img align="center" alt="LESS" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/less_icon.png">
-    <img align="center" alt="JS" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/js_icon.png">
-    <img align="center" alt="REACT" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/react_icon.png">
-    <img align="center" alt="ANGULAR" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/angular_icon.png">
+    <img align="center" alt="JAVA" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/c%232.png">
+    <img align="center" alt="JAVA" height="50em" width="90em" src="https://raw.githubusercontent.com/guih1886/icons/main/dot_net.png">
     <img align="center" alt="JAVA" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/java_icon.png">
     <img align="center" alt="PYTHON" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/python_icon.png">
-    <img align="center" alt="PHP" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/php_icon.png">
+    <img align="center" alt="JS" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/js_icon.png">
     <img align="center" alt="NODE" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/node_icon.png">
-    <img align="center" alt="SQL" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/my_sql_icon.png">  
+    <img align="center" alt="PHP" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/php_icon.png">
+    <img align="center" alt="REACT" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/react_icon.png">
+    <img align="center" alt="ANGULAR" height="50em" width="60em" src="https://raw.githubusercontent.com/guih1886/icons/main/angular_icon.png">
 </div>
 
 ##
